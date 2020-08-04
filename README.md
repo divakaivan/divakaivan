@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I turned to the light side of programming from my placement year at Lloyds Banking group.
+
+#### Currently learning :notebook: :
+ - <img align="left" alt="Github" width="26px" src="https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg" />
+
 
 <!--
 **divakaivan/divakaivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.freepngimg.com/thumb/github/1-2-github-free-png-image.png" />
+<img align="left" alt="Github" width="26px" src="https://www.freepngimg.com/thumb/github/1-2-github-free-png-image.png" />
