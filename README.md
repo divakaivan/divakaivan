@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://www.linkedin.com/in/ivansivanov/
-[email]: mailto:isivanov98@outlook.co
+[email]: mailto:isivanov98@outlook.com
