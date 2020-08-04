@@ -1,7 +1,7 @@
 ### Hi there 👋, I turned to the light side of programming from my placement year at Lloyds Banking group.
 
 #### Currently learning :notebook: :
- - ![GraphQL](https://commons.wikimedia.org/wiki/File:GraphQL_Logo.svg)
+ - ![GraphQL](https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg)
 
 
 <!--
