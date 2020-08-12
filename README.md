@@ -5,6 +5,7 @@
  - Learning Kotlin 
  - Building Java web services and REST api with Spring Boot
  - Improving Hooks knowledge
+ - Trying to squeeze in making my website for when I start applying for Graduate jobs
 
 ## Recently finished:
  - Building a full stack web app from Wes Bos
