@@ -5,6 +5,7 @@
  - Learning Kotlin 
  - Building Java backend with Spring boot (by Tim Buchalka) 
  - Continuosly learning React hooks
+ - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
  - Trying to squeeze in making my website for when I start applying for Graduate jobs
 
 ## Recently finished:
