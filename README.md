@@ -1,13 +1,14 @@
 ### Hi there 👋, I am Ivan.
 
 ## Currently working on :
- - Testing JavaScript applications course from Kent C. Dodds
+ - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Learning Kotlin 
- - Building Java web services and REST api with Spring Boot
- - Improving Hooks knowledge
+ - Building Java backend with Spring boot (by Tim Buchalka) 
+ - Continuosly learning React hooks
  - Trying to squeeze in making my website for when I start applying for Graduate jobs
 
 ## Recently finished:
+ - Testing JavaScript applications course from Kent C. Dodds
  - Building a full stack web app from Wes Bos
    - <img alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /> GraphQL Yoga and Prisma for the backend
    - <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />   and   <img alt="Apollo Client" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png" /> for the frontend
