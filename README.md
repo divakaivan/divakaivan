@@ -2,7 +2,6 @@
 
 ## Currently working on :
  - Learning Kotlin 
- - Building Java backend with Spring boot (by Tim Buchalka) 
  - Continuosly learning React hooks
  - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
  - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
