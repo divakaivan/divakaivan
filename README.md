@@ -3,11 +3,11 @@
 ## Currently working on :
  - Learning Kotlin 
  - Continuosly learning React hooks
- - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
  - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Trying to squeeze in making my website for when I start applying for Graduate jobs
 
 ## Recently finished:
+ - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
  - Testing JavaScript applications course from Kent C. Dodds
  - Building a full stack web app from Wes Bos
    - <img alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /> GraphQL Yoga and Prisma for the backend
