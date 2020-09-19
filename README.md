@@ -1,12 +1,13 @@
 ### Hi there 👋, I am Ivan.
 
 ## Currently working on :
+ - Making a Flask api that reads and sends data from a csv that has LoL pro data.
  - Learning Kotlin 
  - Continuosly learning React hooks
- - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
 
 ## Recently finished:
  - My personal website for graduate jobs' applications [ivan-ivanov.dev](https://ivan-ivanov.dev)
+ - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
  - Testing JavaScript applications course from Kent C. Dodds
  - Building a full stack web app from Wes Bos
