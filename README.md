@@ -3,7 +3,7 @@
 ## Currently working on :
  - Making a Flask api that reads and sends data from a csv that has LoL pro data.
  - Learning Kotlin 
- - Going over the exercises from [epicreact.dev](https://twitter.com/kentcdodds/status/1280710694640291840) in each repo 
+ - Going over the free exercises from [epicreact.dev](https://twitter.com/kentcdodds/status/1280710694640291840) in each repo 
  - Continuosly learning React hooks
 
 ## Recently finished:
