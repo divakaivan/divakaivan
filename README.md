@@ -25,16 +25,16 @@
  <a href="#"><img alt="Java" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-64.png"></a>
 
 #### API types:
- <a href="#"><img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
+  <a href="#"><img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
  <a href="#"><img alt="REST" width="40px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png"></a>
 
 
 #### Databases:
- <a href="#"><img alt="Postgres" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></a>
+  <a href="#"><img alt="Postgres" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></a>
  <a href="#"><img alt="mongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" ></a> 
  
 #### Operating systems:
- <a href="#"><img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" ></a>
+  <a href="#"><img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" ></a>
  <a href="#"><img alt="Windows" width="30px" src="https://www.freepngimg.com/thumb/microsoft_windows/10-2-microsoft-windows-picture-thumb.png" ></a>
 
 
