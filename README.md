@@ -3,8 +3,7 @@
 An accountant-to-be turned into a developer from my amazing placement. For more info download my [CV](https://github.com/divakaivan/personal-website/raw/master/IvanIvanovCV.pdf) or checkout [my website](https://ivan-ivanov.dev).
 
 ## Currently working on :
- - Making a Flask api that reads and sends data from a csv that has LoL pro data.
- - Learning Kotlin 
+ - Making a Flask api that reads and sends data from a csv that has LoL pro data (inbetween my final year accounting studies).
  - Going over the free exercises from [epicreact.dev](https://twitter.com/kentcdodds/status/1280710694640291840) in each repo 
  - Continuosly learning React hooks
 
