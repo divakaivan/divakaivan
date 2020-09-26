@@ -27,8 +27,8 @@
 </span>
 
 #### API types:
-  <a href="#"><img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
- <a href="#"><img alt="REST" width="40px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png"></a>
+  <a href="/"><img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
+ <a href="/"><img alt="REST" width="40px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png"></a>
 
 
 #### Databases:
