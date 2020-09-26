@@ -17,27 +17,27 @@
 ## Current tech stack:
 
 #### Languages and libraries:
-<span>
+
 <img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="30px" src='https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png' height='100' alt='Apollo Server'>
 <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" >
  <img alt="Java" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-64.png">
-</span>
+
 
 #### API types:
-  <a href="/"><img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
- <a href="/"><img alt="REST" width="40px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png"></a>
+ <img alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" >
+ <img alt="REST" width="40px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png">
 
 
 #### Databases:
-  <a href="#"><img alt="Postgres" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></a>
- <a href="#"><img alt="mongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" ></a> 
+  <img alt="Postgres" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" >
+ <img alt="mongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" >
  
 #### Operating systems:
-  <a href="#"><img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" ></a>
- <a href="#"><img alt="Windows" width="30px" src="https://www.freepngimg.com/thumb/microsoft_windows/10-2-microsoft-windows-picture-thumb.png" ></a>
+ <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" >
+ <img alt="Windows" width="30px" src="https://www.freepngimg.com/thumb/microsoft_windows/10-2-microsoft-windows-picture-thumb.png" >
 
 
 #### 📫 How to reach me: 
