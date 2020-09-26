@@ -10,8 +10,8 @@
  - My personal website for graduate jobs' applications [ivan-ivanov.dev](https://ivan-ivanov.dev)
  - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
- - Testing JavaScript applications
- - Building a full stack web app with React, Apollo, Prisma, GraphQL, GraphQL Yoga
+ - Testing JavaScript applications workshops by Kent C. Dodds
+ - Building a full stack web app with React, Apollo, Prisma, GraphQL, GraphQL Yoga with Wes Bos
 
 
 ## Current tech stack:
