@@ -10,10 +10,33 @@
  - My personal website for graduate jobs' applications [ivan-ivanov.dev](https://ivan-ivanov.dev)
  - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
- - Testing JavaScript applications course from Kent C. Dodds
- - Building a full stack web app from Wes Bos
-   - <img alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /> GraphQL Yoga and Prisma for the backend
-   - <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />   and   <img alt="Apollo Client" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png" /> for the frontend
+ - Testing JavaScript applications
+ - Building a full stack web app with React, Apollo, Prisma, GraphQL, GraphQL Yoga
+
+
+## Current tech stack:
+
+#### Languages and libraries:
+ <a href="#"><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
+ <a href="#"><img height="26px" src='https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png' height='100' alt='Apollo Server'></a>
+ <a href="#"><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
+ <a href="#"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></a>
+ <a href="#"><img alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" ></a>
+ <a href="#"><img alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-64.png"></a>
+
+ #### API:
+ <a href="#"><img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" ></a>
+ <a href="#"><img alt="REST" width="30px" src="https://miro.medium.com/max/800/1*-puLhgETRvZkaghm8KDqYA.png"></a>
+
+
+#### Database:
+ <a href="#"><img alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></a>
+ <a href="#"><img alt="mongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" ></a> 
+ 
+#### OS:
+ <a href="#"><img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" ></a>
+ <a href="#"><img alt="Windows" width="26px" src="https://www.freepngimg.com/thumb/microsoft_windows/10-2-microsoft-windows-picture-thumb.png" ></a>
+
 
 #### 📫 How to reach me: 
 [<img alt="LinkedIN" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
