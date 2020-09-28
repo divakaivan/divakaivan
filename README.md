@@ -6,6 +6,7 @@ An accountant-to-be turned into a developer from my amazing placement. For more 
  - Making a Flask api that reads and sends data from a csv that has LoL pro data (inbetween my final year accounting studies).
  - Going over the free exercises from [epicreact.dev](https://twitter.com/kentcdodds/status/1280710694640291840) in each repo 
  - Continuosly learning React hooks
+ - Learning to work on ubuntu with a dual boot on my pc
 
 ## Recently finished:
  - My personal website for graduate jobs' applications [ivan-ivanov.dev](https://ivan-ivanov.dev)
@@ -41,12 +42,6 @@ An accountant-to-be turned into a developer from my amazing placement. For more 
  <img alt="mongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" >
 </p>
  
-#### Operating systems:
- 
-<p>
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" >
- <img alt="Windows" width="30px" src="https://www.freepngimg.com/thumb/microsoft_windows/10-2-microsoft-windows-picture-thumb.png" >
-</p>
 
 #### 📫 How to reach me: 
 [<img alt="LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
