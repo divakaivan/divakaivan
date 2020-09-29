@@ -4,7 +4,7 @@ An accountant-to-be turned into a developer from my amazing placement. For more 
 
 ## Currently working on :
  - Making a Flask api that reads and sends data from a csv that has LoL pro data (inbetween my final year accounting studies).
- - Going over the free exercises from [epicreact.dev](https://twitter.com/kentcdodds/status/1280710694640291840) in each repo 
+ - Becoming an epic react developer with Kent C. Dodds' workshops
  - Continuosly learning React hooks
  - Learning to work on ubuntu with a dual boot on my pc
 
