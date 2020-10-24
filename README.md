@@ -3,8 +3,6 @@
 An accountant-to-be turned into a developer from my amazing placement. For more info download my [CV](https://github.com/divakaivan/personal-website/raw/master/IvanIvanovCV.pdf) or checkout [my website](https://ivan-ivanov.dev).
 
 ## Currently working on :
- - Improving my JS with O'reilly's JavaScript: Definitive guide 7th edition
- - Making a Flask api that reads and sends data from a csv that has LoL pro data (inbetween my final year accounting studies).
  - Becoming an epic react developer with Kent C. Dodds' workshops
  - Continuosly learning React hooks
  - Learning to work on ubuntu with a dual boot on my pc
