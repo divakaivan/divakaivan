@@ -3,7 +3,7 @@
 An accountant-to-be turned into a developer from my amazing placement. For more info download my [CV](https://github.com/divakaivan/personal-website/raw/master/IvanIvanovCV.pdf) or checkout [my website](https://ivan-ivanov.dev).
 
 ## Currently working on :
- - "Pokemon war" webapp
+ - Pokemon war webapp
  - LoL Flash timers mobile app with Kotlin
 
 ## Recently finished:
