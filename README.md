@@ -3,11 +3,12 @@
 An accountant-to-be turned into a developer from my amazing placement. For more info download my [CV](https://github.com/divakaivan/personal-website/raw/master/IvanIvanovCV.pdf) or checkout [my website](https://ivan-ivanov.dev).
 
 ## Currently working on :
- - Becoming an epic react developer with Kent C. Dodds' workshops
- - Continuosly learning React hooks
- - Learning to work on ubuntu with a dual boot on my pc
+ - "Pokemon war" webapp
+ - LoL Flash timers mobile app with Kotlin
 
 ## Recently finished:
+ - React security by Ryan Chenkie https://reactsecurity.io/
+ - Becoming an epic react developer with Kent C. Dodds' workshops
  - My personal website for graduate jobs' applications [ivan-ivanov.dev](https://ivan-ivanov.dev)
  - Building a Fullstack React GraphQL TypeScript webapp with [Ben Awad](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=7s)
  - Learning about react-query from [The Net Ninja's](https://www.youtube.com/watch?v=x1rQ61otgtU) tutorial series
