@@ -1,3 +1,3 @@
 [LinkedIn](https://www.linkedin.com/in/ivansivanov/)
 
-[50+ days of ML blog](https://ivanstudyblog.github.io/)
+[2024 - 366 days blog](https://ivanstudyblog.github.io/)
