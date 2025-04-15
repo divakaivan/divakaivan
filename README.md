@@ -1,3 +1,4 @@
 [LinkedIn](https://www.linkedin.com/in/ivansivanov/)
 
-[2024 - 366 days blog](https://ivanstudyblog.github.io/)
+[Monthly 2025 blog](https://ivanstudyblog.github.io/2025)
+[Daily 2024 blog](https://ivanstudyblog.github.io/)
