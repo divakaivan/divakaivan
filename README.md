@@ -224,6 +224,14 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
   </div>  
 
   <div class="project-item">
+    <h3>Sample ML model API following the Open Inference Protocol</h3>
+    <p>
+      <li>Designed following the Open Inference Protocol — a growing industry standard for standardized, observable, and interoperable machine learning inference</li>
+    </p>
+    <p><b>Tech: scikit-learn, FastAPI, pytest, pre-commit, Docker, Github Actions, Pydantic</b></p>
+    <a href="https://github.com/divakaivan/model-api-oip" target="_blank">View Project</a>
+  </div>
+  <div class="project-item">
     <h4><a href="https://github.com/divakaivan/politics.news" target="_blank">politics.news - TUI for reading political news from the terminal using Go</a></h4>
   </div>
   <div class="project-item">
