@@ -2,7 +2,7 @@
 
 Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
 
-[Monthly 2025 blog](https://ivanstudyblog.github.io/2025)  [Daily 2024 blog](https://ivanstudyblog.github.io/)
+[Monthly 2025 blog](https://ivanstudyblog.github.io/2025) | [Daily 2024 blog](https://ivanstudyblog.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivansivanov)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ilearnthings123)  
 
