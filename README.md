@@ -82,19 +82,13 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
     <h4><a href="https://www.kaggle.com/divakaivan12/code" target="_blank">Notebook Expert on Kaggle</a></h4>
   </div>
   <div class="project-item">
-    <h4><a href="https://www.kaggle.com/code/divakaivan12/bank-ml-model-based-on-business-metrics" target="_blank">Notebook model dev optimising for business metrics (here, FICO)</a></h4>
-  </div>
-  <div class="project-item">
     <h4><a href="https://www.kaggle.com/code/divakaivan12/the-full-story-behind-multicollinearity" target="_blank">Diving into the full story behind multicollinearity</a></h4>
   </div>
   <div class="project-item">
     <h4><a href="https://github.com/divakaivan/LingoMate" target="_blank">LingoMate - hackathon project for language learners</a></h4>
   </div>
   <div class="project-item">
-    <h4><a href="https://github.com/divakaivan/micrograd-zig" target="_blank">Minimalistic Neural Net library written in Zig</a></h4>
-  </div>
-  <div class="project-item">
-    <h4><a href="https://www.kaggle.com/code/divakaivan12/neural-network-epoch-by-hand" target="_blank">Doing a neural network epoch by hand</a></h4>
+    <h4><a href="https://www.kaggle.com/code/divakaivan12/neural-network-epoch-by-hand" target="_blank">Doing a neural network epoch+math by hand</a></h4>
   </div>
   <div class="project-item">
     <h4><a href="https://github.com/divakaivan/text2chart" target="_blank">text2chart - transforming natural language to charts</a></h4>
@@ -107,9 +101,6 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
   </div>
   <div class="project-item">
     <h4><a href="https://github.com/divakaivan/db2chat" target="_blank">db2chat - chat with your (SQLite) database</a></h4>
-  </div>
-  <div class="project-item">
-    <h4><a href="https://github.com/divakaivan/classify_hangul" target="_blank">CV model to classify Hangul characters</a></h4>
   </div>
 </div>
 </details>
@@ -225,7 +216,7 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
     <h4><a href="https://github.com/divakaivan/politics.news" target="_blank">politics.news - TUI for reading political news from the terminal using Go</a></h4>
   </div>
   <div class="project-item">
-    <h4><a href="https://github.com/divakaivan/classify_hangul" target="_blank">Webapp using a model to classify Hangul characters</a></h4>
+    <h4><a href="https://github.com/divakaivan/classify_hangul" target="_blank">Webapp for classifying hand-written Hangul characters</a></h4>
   </div>
   <div class="project-item">
     <h4><a href="https://github.com/divakaivan/psql-express-yelp-api" target="_blank">RESTful Node.js/Express backend for a restaurant review application</a></h4>
