@@ -1,4 +1,4 @@
-## 🌐 Socials:
+## Socials
 
 Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
 
@@ -10,12 +10,7 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
 
 [Daily 2024 blog](https://ivanstudyblog.github.io/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakaivan&layout=compact&hide=jupyter%20notebook,html,css&langs_count=10&size_weight=0.5&count_weight=0.5)
-
-## Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-
-(Learning: C, Zig)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divakaivan&layout=compact&hide=jupyter%20notebook,shell,hcl,html,lua,powershell,css,makefile,smarty,batchfile&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 ## Libraries/Frameworks:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
