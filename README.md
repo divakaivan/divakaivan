@@ -26,7 +26,7 @@ Check my linkedin/monthly 2025 blog/youtube to see what I'm learning these days
 ## Projects
 
 <details>
-<summary>AI/ML</summary>
+<summary>AI/ML/MLOps</summary>
 <br>
 <div id="projects">
   <div class="project-item">
